@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SALATA",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Checklist",
+  "start_url": "/checklist",
+  "theme_color": "#000000",
+  "description": "Salata Checklist Apps"
+}
